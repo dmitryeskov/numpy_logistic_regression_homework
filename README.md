@@ -1,4 +1,4 @@
-# Логистическая регрессия использование NumPy
+# Логистическая регрессия и использование NumPy
 
 В данном проекте мы дописываем логистический регрессор, используем его для классификации отзывов о еде из Amazon.
 
@@ -7,6 +7,7 @@
 ```
 https://github.com/dmitryeskov/numpy_logistic_regression_homework.git
 ```
+
 ### 2. Установить необходимые зависимости
 ```
 pip install -r requirements.txt
@@ -19,3 +20,6 @@ jupyter notebook
 
 ### 4. Решение находится в homework.ipynb
 Результаты:
+
+Train accuracy = 0.816
+Test accuracy = 0.812
